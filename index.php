@@ -9,13 +9,15 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="style.css">
   
 </head>
-<body>
+<body style="max-width:1100px; margin-left:auto ;margin-right:auto">
 
+<img class="logo" src="logo7.jpg" >
 <!-- Navbar -->
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default" >
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -41,7 +43,7 @@
   <img src="slika.png" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
   <h3>?</h3>
 </div>
-
+<br>
 <!-- Second Container -->
 <div class="container-fluid bg-2 text-center">
   <h3 class="margin">What Am I?</h3>
@@ -67,12 +69,16 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       <img src="slika4.png" class="img-responsive margin" style="width:100%" alt="Image">
     </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <img src="slika2.png" class="img-responsive margin" style="width:100%" alt="Image">
+    </div>
   </div>
 </div>
 
 <!-- Footer -->
 <footer class="container-fluid bg-4 text-center">
-  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">www.w3schools.com</a></p> 
+ 
 </footer>
 
 </body>
