@@ -13,10 +13,7 @@ body {
 }
 
 
-  .bg-1 { 
-      background-color: black; /* Green */
-      color: #ffffff;
-  }
+  
   .bg-2 { 
       background-color: #474e5d; /* Dark Blue */
       color: #ffffff;
@@ -52,7 +49,11 @@ body {
      width: 400px;
     top:10px;
   }
-
+.carousel slide{
+  width: auto;
+  height: 225px;
+  max-height: 225px;
+}
 
 
   
