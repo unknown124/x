@@ -15,7 +15,7 @@
 </head>
 <body style="max-width:1100px; margin-left:auto ;margin-right:auto">
 
-<img class="logo" src="logo7.jpg" >
+<img class="logo" src="spartan2.jpg" >
 <!-- Navbar -->
 <nav class="navbar navbar-default" >
   <div class="container">
@@ -49,6 +49,27 @@
   </a>
 </div>
 <br>
+<!--------------------------------    collapse  -------------------------->
+
+<p>
+  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Link with href
+  </a>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Button with data-target
+  </button>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+  </div>
+</div>
+
+<!-----------------------------    collapse ------------------------------------------ -->
+
+
+
+
 <div class="container-fluid bg-2 text-center">
   <h3 class="margin">What Am I?</h3>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
@@ -79,7 +100,6 @@
     </div>
   </div>
 </div>
-
 
 
 
