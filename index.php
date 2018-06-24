@@ -15,7 +15,7 @@
   
   
 </head>
-<body style="max-width:1100px; margin-left:auto ;margin-right:auto">
+<body style="max-width:1099px; margin-left:auto ;margin-right:auto">
 
 <img class="logo" src="spartan2.jpg" >
 <!-- Navbar -->
